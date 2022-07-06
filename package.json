@@ -1,0 +1,25 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "readme generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubys0806/README_Generator.git"
+  },
+  "keywords": [
+    "secret"
+  ],
+  "author": "Ruby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubys0806/README_Generator/issues"
+  },
+  "homepage": "https://github.com/Rubys0806/README_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
